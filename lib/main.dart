@@ -11,6 +11,19 @@ import 'package:news_app/shared/network/remote/dio_helper.dart';
 
 import 'layout/news_layout.dart';
 
+// Git Branch Steps
+// 1. checkout master
+// 2. update master
+// 3. create branch
+// 4. code ........
+// 5. commit
+// 6. checkout master
+// 7. update master
+// 8. checkout your local branch
+// 9. Merge master with my current branch
+// 10. push
+// 11. pull request
+
 void main() async {
   // to guaranteed that first 3 lines executed before runApp
   // it's used when main is async
